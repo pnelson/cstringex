@@ -1,0 +1,10 @@
+CStringEx
+=========
+
+Woah this brings me back in time. This is a C++ string utility class that I
+wrote a long time ago. I remember being frustrated with the standard library and
+annoyed with third party string classes and eventually decided to go ahead and
+write my own. It is nearly complete in terms of useful features but there is no
+real documentation. Looking at the class declaration in the header should make
+things easy enough to figure out. Unfortunately, I never implemented string
+formatting.
